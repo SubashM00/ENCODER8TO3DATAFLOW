@@ -53,9 +53,8 @@ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in q
 Developed by: Subash M
 
 Reg No: 212223040210
-
-![image](https://github.com/SubashM00/ENCODER8TO3DATAFLOW/assets/144870586/a2891ed3-3662-4c86-b99f-16b1135468ad)
 ```
+![image](https://github.com/SubashM00/ENCODER8TO3DATAFLOW/assets/144870586/a2891ed3-3662-4c86-b99f-16b1135468ad)
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![image](https://github.com/SubashM00/ENCODER8TO3DATAFLOW/assets/144870586/6a2a1b0b-6686-4564-b9ac-7c68478e2cc6)
