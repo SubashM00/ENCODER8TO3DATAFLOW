@@ -47,6 +47,7 @@ Figure 02  Encoder 8 * 3
 5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
+
 Developed by: Subash M
 Reg No: 212223040210
 
